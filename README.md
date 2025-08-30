@@ -1,6 +1,4 @@
-![mern stack project](https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/project-thumbnail.jpg?raw=true)
 
- 
 
 ### Under Ongoing Development
 
