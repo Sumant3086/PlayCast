@@ -1,5 +1,5 @@
 ![mern stack project](https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/project-thumbnail.jpg?raw=true)
-# <img src="https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/logo.png?raw=true" alt="description" width="49" height="49"> **PlayCast** - Fullstack MERN & Next.js Project for Movie and TV Show Streaming
+
  
 
 ### Under Ongoing Development
