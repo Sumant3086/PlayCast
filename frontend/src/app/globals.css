@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .subscription-box {
+    @apply w-full rounded-xl border border-gray-500/20 3xl:py-28 lg:py-20 md:py-14 py-12 md:px-10 px-3.5 flex md:flex-row flex-col items-center max-md:text-center gap-4
+    md:bg-[url(/images/subscription-box-image.jpg)] bg-[url(/images/subscription-box-image-mobile.jpg)] bg-center bg-cover;
+  }
+
+  .support-input-field {
+    @apply w-full bg-c-black-08 border border-c-black-15 rounded md:py-3 py-3.5 px-3.5
+     3xl:text-lg xl:text-sm lg:text-sm text-super-xs placeholder:text-c-grey-60 text-c-grey-90
+      mt-2 outline-none duration-200 focus:ring-1 focus:border-c-red-45/60 focus:ring-c-red-45/60;
+  }
+
+  .btn-black-06 {
+    @apply bg-c-black-06 hover:bg-c-black-06/50 duration-200;
+  }
+
+  .btn-black-08 {
+    @apply bg-c-black-08 hover:bg-c-black-06/80 duration-200;
+  }
+
+  .btn-black-10 {
+    @apply bg-c-black-10 hover:bg-c-black-08 duration-200;
+  }
+}
+
+@media screen and (max-height: 700px) {
+  .top-banner-box {
+    @apply h-[55vh];
+  }
+}
+
+/*! Custom Scrollbar  */
+.custom-scrollbar-sm::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.custom-scrollbar-md::-webkit-scrollbar {
+  width: 11px;
+  height: 11px;
+}
+
+.custom-scrollbar-xl::-webkit-scrollbar {
+  width: 14px;
+  height: 14px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: #262626;
+  border-radius: 50px !important;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #404040;
+  border-radius: 50px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #4d4d4d;
+}
