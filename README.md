@@ -1,5 +1,5 @@
-![mern stack project](https://github.com/Sumant3086/PlayCast/blob/master/frontend/public/github/project-thumbnail.jpg?raw=true)
-# <img src="https://github.com/Sumant3086/PlayCast/blob/master/frontend/public/github/logo.png?raw=true" alt="description" width="49" height="49"> **PlayCast** - Fullstack MERN & Next.js Project for Movie and TV Show Streaming
+![mern stack project](https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/project-thumbnail.jpg?raw=true)
+# <img src="https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/logo.png?raw=true" alt="description" width="49" height="49"> **PlayCast** - Fullstack MERN & Next.js Project for Movie and TV Show Streaming
  
 
 ### Under Ongoing Development
@@ -48,16 +48,16 @@ This project is ideal for those looking for an advanced **MERN stack** or **Next
 
 ### **Frontend:**
 <p style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/Sumant3086/PlayCast/blob/master/frontend/public/github/reactjs-logo.png?raw=true" alt="Next.js" width="55" style="margin: 0 20px;">
-  <img src="https://github.com/Sumant3086/PlayCast/blob/master/frontend/public/github/nextjs-logo.png?raw=true" alt="React" width="55" style="margin: 0 20px;">
-  <img src="https://github.com/Sumant3086/PlayCast/blob/master/frontend/public/github/tailwind-logo.png?raw=true" alt="Tailwind CSS" width="55" style="margin: 0 20px;">
+  <img src="https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/reactjs-logo.png?raw=true" alt="Next.js" width="55" style="margin: 0 20px;">
+  <img src="https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/nextjs-logo.png?raw=true" alt="React" width="55" style="margin: 0 20px;">
+  <img src="https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/tailwind-logo.png?raw=true" alt="Tailwind CSS" width="55" style="margin: 0 20px;">
 </p>
 
 ### **Backend:**
 <p style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/Sumant3086/PlayCast/blob/master/frontend/public/github/nodejs-logo.png?raw=true" alt="Node.js" width="55" style="margin: 0 20px;">
-  <img src="https://github.com/Sumant3086/PlayCast/blob/master/frontend/public/github/expressjs-logo.png?raw=true" alt="Express.js" width="55" style="margin: 0 20px;">
-  <img src="https://github.com/Sumant3086/PlayCast/blob/master/frontend/public/github/mongodb-logo.png?raw=true" alt="MongoDB" width="55" style="margin: 0 20px;">
+  <img src="https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/nodejs-logo.png?raw=true" alt="Node.js" width="55" style="margin: 0 20px;">
+  <img src="https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/expressjs-logo.png?raw=true" alt="Express.js" width="55" style="margin: 0 20px;">
+  <img src="https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/mongodb-logo.png?raw=true" alt="MongoDB" width="55" style="margin: 0 20px;">
 </p>
 
 
@@ -121,7 +121,7 @@ Ensure MongoDB is running: The backend requires MongoDB to be running. If using 
 
 ## **Live Demo** <a name="live-demo"></a>
 
-![Website Screenshot](https://github.com/Sumant3086/PlayCast/blob/master/frontend/public/github/streamvibe-project-desktop.png?raw=true)
+![Website Screenshot](https://github.com/Sumant3086/PlayCast/blob/main/frontend/public/github/streamvibe-project-desktop.png?raw=true)
 
 🔗 [Check out the live demo here!](https://playcast-live.liara.run/)
 
