@@ -1,0 +1,8 @@
+{
+  "name": "emojione-ios",
+  "version": "0.1.0",
+  "dependencies": {
+    "emojione-ios": "file:",
+    "underscore": "^1.7.0"
+  }
+}
