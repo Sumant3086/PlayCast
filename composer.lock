@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "426db114006d32857d09dd9d08d76d24",
+    "content-hash": "e2a22d89f74385d6a3c29c8ea1d2067c",
     "packages": [
         {
             "name": "abraham/twitteroauth",
@@ -4495,16 +4495,16 @@
         },
         {
             "name": "stripe/stripe-php",
-            "version": "v17.5.0",
+            "version": "v18.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/stripe/stripe-php.git",
-                "reference": "313c7e3ed6af1d6948dc4262d2b9c6ee6b30394b"
+                "reference": "0acd7bdac84ad0f940d5da30c417170ce59b4fbc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/313c7e3ed6af1d6948dc4262d2b9c6ee6b30394b",
-                "reference": "313c7e3ed6af1d6948dc4262d2b9c6ee6b30394b",
+                "url": "https://api.github.com/repos/stripe/stripe-php/zipball/0acd7bdac84ad0f940d5da30c417170ce59b4fbc",
+                "reference": "0acd7bdac84ad0f940d5da30c417170ce59b4fbc",
                 "shasum": ""
             },
             "require": {
@@ -4548,9 +4548,9 @@
             ],
             "support": {
                 "issues": "https://github.com/stripe/stripe-php/issues",
-                "source": "https://github.com/stripe/stripe-php/tree/v17.5.0"
+                "source": "https://github.com/stripe/stripe-php/tree/v18.2.0"
             },
-            "time": "2025-07-30T17:16:57+00:00"
+            "time": "2025-11-05T22:59:39+00:00"
         },
         {
             "name": "symfony/console",
