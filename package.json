@@ -48,7 +48,7 @@
   "dependencies": {
     "aws-sdk": "^2.1450.0",
     "axios": "^1.13.2",
-    "bcryptjs": "^2.4.3",
+    "bcryptjs": "^3.0.3",
     "bull": "^4.11.3",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
